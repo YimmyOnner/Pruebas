@@ -1,11 +1,11 @@
----
-title: "Portafolio: Teoría de la Programación"
----
+<div style="background-color:#e6f0ff; padding:20px; border-radius:10px;">
 
 # 💻 Portafolio: Teoría de la Programación
 
----
+Bienvenido a mi portafolio sobre teoría de la programación.  
+Aquí encontrarás conceptos, ejemplos y paradigmas del desarrollo de software.
 
+</div>
 ## 🧠 Encabezado (Header)
 
 > **Autor:** Tu Nombre  
