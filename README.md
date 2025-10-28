@@ -1,4 +1,3 @@
-Portafolio.md
 <div style="color: red;">
 
 # 💻 Portafolio: Teoría de la Programación
