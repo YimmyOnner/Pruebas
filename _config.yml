@@ -1,11 +1,1 @@
 
----
-
-## 🎨 2. Archivo `_config.yml`
-
-Este archivo le dice a **GitHub Pages** cómo mostrar tu Markdown como una página web bonita (usa Jekyll automáticamente):
-
-```yaml
-theme: jekyll-theme-cayman
-title: Portafolio: Teoría de la Programación
-description: Portafolio académico en formato Markdown
