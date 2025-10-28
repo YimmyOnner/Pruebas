@@ -1,4 +1,4 @@
-<div style="background-color:#e6f0ff; padding:20px; border-radius:10px;">
+<div style="color: red;">
 
 # 💻 Portafolio: Teoría de la Programación
 
