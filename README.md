@@ -60,57 +60,102 @@
 
 ---
 
-## 🧠 Concepto: Estructuras Secuenciales
+<style>
+.card {
+  background: #fff;
+  border-radius: 15px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  padding: 25px;
+  margin: 20px auto;
+  max-width: 800px;
+  font-family: 'Segoe UI', sans-serif;
+  transition: transform 0.3s ease;
+}
+.card:hover {
+  transform: translateY(-5px);
+}
 
-Las **estructuras secuenciales** son aquellas en las que las instrucciones se ejecutan una tras otra, siguiendo un orden lógico y lineal, sin condiciones ni repeticiones.  
-Son la base de cualquier programa, ya que permiten realizar pasos definidos de forma ordenada.
+/* Colores temáticos */
+.concepto { border-left: 6px solid #2196F3; }
+.ejemplos { border-left: 6px solid #9C27B0; }
+.evaluaciones { border-left: 6px solid #FF9800; }
+.reflexion { border-left: 6px solid #4CAF50; }
+.bibliografia { border-left: 6px solid #607D8B; }
 
-### 📋 Ejemplos:
+h2 {
+  margin-bottom: 15px;
+}
 
-1. **Ejemplo 1:** Calcular el área de un rectángulo.
-   ```text
-   Leer base y altura
-   Calcular área = base * altura
-   Mostrar área
-   ```
+pre {
+  background: #f7f7f7;
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 14px;
+  overflow-x: auto;
+}
+</style>
 
-2. **Ejemplo 2:** Mostrar un mensaje de bienvenida.
-   ```text
-   Imprimir "Bienvenido al sistema"
-   ```
+<div class="card concepto">
+  <h2>🧠 Concepto: Estructuras Secuenciales</h2>
+  <p>
+    Las <strong>estructuras secuenciales</strong> son aquellas en las que las instrucciones se ejecutan una tras otra,
+    siguiendo un orden lógico y lineal, sin condiciones ni repeticiones.  
+    Son la base de cualquier programa, ya que permiten realizar pasos definidos de forma ordenada.
+  </p>
+</div>
 
-3. **Ejemplo 3:** Sumar dos números.
-   ```text
-   Leer A, B
-   Calcular S = A + B
-   Mostrar S
-   ```
+<div class="card ejemplos">
+  <h2>📋 Ejemplos</h2>
+  <ol>
+    <li>
+      <strong>Ejemplo 1:</strong> Calcular el área de un rectángulo.
+      <pre><code>Leer base y altura
+Calcular área = base * altura
+Mostrar área</code></pre>
+    </li>
+    <li>
+      <strong>Ejemplo 2:</strong> Mostrar un mensaje de bienvenida.
+      <pre><code>Imprimir "Bienvenido al sistema"</code></pre>
+    </li>
+    <li>
+      <strong>Ejemplo 3:</strong> Sumar dos números.
+      <pre><code>Leer A, B
+Calcular S = A + B
+Mostrar S</code></pre>
+    </li>
+  </ol>
+</div>
 
----
+<div class="card evaluaciones">
+  <h2>🧾 Evaluaciones y Talleres</h2>
+  <p>Aquí se enlazarán los talleres y evaluaciones desarrollados:</p>
+  <ul>
+    <li><a href="evaluaciones/evaluacion1.md">Evaluación 1</a></li>
+    <li><a href="talleres/taller1.md">Taller 1</a></li>
+    <li><a href="talleres/taller2.md">Taller 2</a></li>
+  </ul>
+</div>
 
-## 🧾 Evaluaciones y Talleres
+<div class="card reflexion">
+  <h2>💭 Reflexión Personal</h2>
+  <p>
+    La programación no solo consiste en escribir código, sino en
+    <strong>pensar de forma estructurada y lógica</strong>.  
+    Aprender a programar mejora nuestra capacidad para resolver problemas, planificar tareas y comprender
+    la tecnología que usamos día a día.
+  </p>
+  <p>
+    En un mundo dominado por la automatización y los datos, la programación se convierte en una
+    <strong>herramienta esencial para la innovación y el pensamiento crítico</strong>.
+  </p>
+</div>
 
-> Aquí se enlazarán los talleres y evaluaciones desarrollados:
-
-- [Evaluación 1](evaluaciones/evaluacion1.md)
-- [Taller 1](talleres/taller1.md)
-- [Taller 2](talleres/taller2.md)
-
----
-
-## 💭 Reflexión Personal
-
-> La programación no solo consiste en escribir código, sino en **pensar de forma estructurada y lógica**.  
-> Aprender a programar mejora nuestra capacidad para resolver problemas, planificar tareas y comprender el funcionamiento de la tecnología que usamos día a día.  
-> En un mundo dominado por la automatización y los datos, la programación se convierte en una **herramienta esencial para la innovación y el pensamiento crítico**.
-
----
-
-## 📚 Bibliografía (Formato IEEE)
-
-[1] D. Knuth, *The Art of Computer Programming*, 3rd ed., Addison-Wesley, 1997.  
-[2] B. W. Kernighan and D. M. Ritchie, *The C Programming Language*, 2nd ed., Prentice Hall, 1988.  
-[3] S. McConnell, *Code Complete*, 2nd ed., Microsoft Press, 2004.  
-[4] IEEE Computer Society, “Software Engineering Body of Knowledge,” *IEEE SWEBOK V3.0*, 2014.  
-
-</details>
+<div class="card bibliografia">
+  <h2>📚 Bibliografía (Formato IEEE)</h2>
+  <p>
+    [1] D. Knuth, <em>The Art of Computer Programming</em>, 3rd ed., Addison-Wesley, 1997.  
+    [2] B. W. Kernighan and D. M. Ritchie, <em>The C Programming Language</em>, 2nd ed., Prentice Hall, 1988.  
+    [3] S. McConnell, <em>Code Complete</em>, 2nd ed., Microsoft Press, 2004.  
+    [4] IEEE Computer Society, “Software Engineering Body of Knowledge,” <em>IEEE SWEBOK V3.0</em>, 2014.
+  </p>
+</div>
