@@ -1,5 +1,5 @@
+<!-- Estilos integrados para Markdown + navegador -->
 <style>
-/* Estilo académico */
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background: #f5f6fa;
@@ -11,27 +11,30 @@ body {
 .card {
     background: #fff;
     border-radius: 15px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
     padding: 25px;
     margin: 20px auto;
-    max-width: 800px;
-    transition: transform 0.3s ease;
+    max-width: 900px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
-.card:hover { transform: translateY(-5px); }
+.card:hover { transform: translateY(-5px); box-shadow: 0 8px 20px rgba(0,0,0,0.2); }
+
+h1, h2 {
+    margin-bottom: 15px;
+    color: #1E88E5;
+}
 
 .concepto { border-left: 6px solid #1E88E5; }
 .ejemplos { border-left: 6px solid #6A1B9A; }
+.tareas { border-left: 6px solid #0288D1; }
 .evaluaciones { border-left: 6px solid #F57C00; }
 .reflexion { border-left: 6px solid #43A047; }
 .bibliografia { border-left: 6px solid #546E7A; }
-.tareas { border-left: 6px solid #1E88E5; }
 .declaracion { border-left: 6px solid #607D8B; }
 
-h1, h2 { margin-bottom: 15px; }
-
 pre {
-    background: #f7f7f7;
-    padding: 10px;
+    background: #f0f0f0;
+    padding: 12px;
     border-radius: 10px;
     font-size: 14px;
     overflow-x: auto;
@@ -40,7 +43,7 @@ pre {
 a.button {
     display: inline-block;
     padding: 10px 20px;
-    margin: 10px 0;
+    margin: 10px 5px 0 0;
     background-color: #1E88E5;
     color: white;
     text-decoration: none;
@@ -50,7 +53,7 @@ a.button {
 a.button:hover { background-color: #1565C0; }
 </style>
 
-<!-- Portada -->
+<!-- PORTADA -->
 <div class="card">
 <h1>Portafolio Académico – Teoría de la Programación</h1>
 <p><strong>Institución:</strong> Nombre de la institución</p>
@@ -67,14 +70,10 @@ a.button:hover { background-color: #1565C0; }
 <a class="button" href="#ia">Declaración de IA</a>
 </div>
 
-<!-- Contenidos -->
+<!-- CONTENIDOS -->
 <div class="card concepto" id="contenidos">
 <h2>🧠 Concepto: Estructuras Secuenciales</h2>
-<p>
-Las <strong>estructuras secuenciales</strong> son aquellas en las que las instrucciones se ejecutan una tras otra,
-siguiendo un orden lógico y lineal, sin condiciones ni repeticiones.  
-Son la base de cualquier programa, ya que permiten realizar pasos definidos de forma ordenada.
-</p>
+<p>Las <strong>estructuras secuenciales</strong> son aquellas en las que las instrucciones se ejecutan una tras otra, siguiendo un orden lógico y lineal, sin condiciones ni repeticiones. Son la base de cualquier programa, ya que permiten realizar pasos definidos de forma ordenada.</p>
 </div>
 
 <div class="card ejemplos">
@@ -101,19 +100,12 @@ Mostrar S</code></pre>
 
 <div class="card reflexion">
 <h2>💭 Reflexión Personal</h2>
-<p>
-La programación no solo consiste en escribir código, sino en
-<strong>pensar de forma estructurada y lógica</strong>.  
-Aprender a programar mejora nuestra capacidad para resolver problemas, planificar tareas y comprender la tecnología que usamos día a día.
-</p>
-<p>
-En un mundo dominado por la automatización y los datos, la programación se convierte en una
-<strong>herramienta esencial para la innovación y el pensamiento crítico</strong>.
-</p>
+<p>La programación no solo consiste en escribir código, sino en <strong>pensar de forma estructurada y lógica</strong>. Aprender a programar mejora nuestra capacidad para resolver problemas, planificar tareas y comprender la tecnología que usamos día a día.</p>
+<p>En un mundo dominado por la automatización y los datos, la programación se convierte en una <strong>herramienta esencial para la innovación y el pensamiento crítico</strong>.</p>
 <a class="button" href="#contenidos">🔙 Volver a Contenidos</a>
 </div>
 
-<!-- Tareas -->
+<!-- TAREAS ENTREGADAS -->
 <div class="card tareas" id="tareas">
 <h2>📝 Tareas Entregadas</h2>
 <ul>
@@ -122,7 +114,7 @@ En un mundo dominado por la automatización y los datos, la programación se con
 <a class="button" href="#contenidos">🔙 Volver a Contenidos</a>
 </div>
 
-<!-- Evaluaciones -->
+<!-- EVALUACIONES TOMADAS -->
 <div class="card evaluaciones" id="evaluaciones">
 <h2>🧾 Evaluaciones Tomadas</h2>
 <ul>
@@ -131,7 +123,7 @@ En un mundo dominado por la automatización y los datos, la programación se con
 <a class="button" href="#contenidos">🔙 Volver a Contenidos</a>
 </div>
 
-<!-- Bibliografía -->
+<!-- BIBLIOGRAFÍA -->
 <div class="card bibliografia" id="bibliografia">
 <h2>📚 Bibliografía (Formato IEEE)</h2>
 <p>
@@ -143,12 +135,9 @@ En un mundo dominado por la automatización y los datos, la programación se con
 <a class="button" href="#contenidos">🔙 Volver a Contenidos</a>
 </div>
 
-<!-- Declaración de IA -->
+<!-- DECLARACIÓN DE USO DE IA -->
 <div class="card declaracion" id="ia">
 <h2>🤖 Declaración de Uso de IA Generativa</h2>
-<p>
-El estudiante declara que para la elaboración de este portafolio se ha utilizado IA generativa únicamente como herramienta de apoyo para mejorar la presentación, organización y redacción de los contenidos, manteniendo la autoría y análisis crítico en todos los trabajos presentados.
-</p>
+<p>El estudiante declara que para la elaboración de este portafolio se ha utilizado IA generativa únicamente como herramienta de apoyo para mejorar la presentación, organización y redacción de los contenidos, manteniendo la autoría y análisis crítico en todos los trabajos presentados.</p>
 <a class="button" href="#contenidos">🔙 Volver a Contenidos</a>
 </div>
-
