@@ -13,10 +13,10 @@
 ---
 
 ## 📘 **PORTAFOLIO DIGITAL DE APRENDIZAJE**  
-### *Asignatura:* Teoría de la Programación  
+### *Asignatura:* Matemáticas Discretas  
 
 📘 **Estudiante:** Angulo Torres Yimmy Onner  
-👩‍🏫 **Docente:** Dra. López Faicán Lissette Geoconda  
+👩‍🏫 **Docente:** Ing. Cueva Hurtado Mario Enrique  
 🏫 **Ciclo:** Primero  
 📅 **Período Académico:** 2025 - Ciclo I  
 📍 **Ciudad Universitaria “Guillermo Falconí Espinosa”**  
@@ -29,33 +29,6 @@
 
 [![📗 Visitar la Unidad 1](https://img.shields.io/badge/📗_Visitar_la_Unidad_1-32CD32?style=for-the-badge)](./Unidad_1/Contenidos.md)
 
-</div>
-
----
-
-# <img src="https://img.icons8.com/fluency/48/laptop.png" width="30"/> Unidad 2
-
-<div align="center">
-
-### Contenido no Disponible: Vuelva al final de la Unidad 2
-</div>
-
----
-
-# <img src="https://img.icons8.com/fluency/48/brain.png" width="30"/> Unidad 3
-
-<div align="center">
-
-### Contenido no Disponible: Vuelva al final de la Unidad 2
-</div>
-
----
-
-# <img src="https://img.icons8.com/fluency/48/books.png" width="30"/> Referencias
-- Pressman, R. S. (2010). *Ingeniería del software: un enfoque práctico.* McGraw-Hill.  
-- Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2009). *Introduction to Algorithms.* MIT Press.  
-- Otros recursos académicos utilizados durante el curso.
-
 ---
 
 # <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="30"/> Uso de la IA
@@ -65,4 +38,4 @@
 
 ---
 
-> 💡 *La finalidad de este portafolio es la de poder concretar todos los temas tratados dentro de la unidad 1, unidad 2 y unidad3, ademas , permitiendo incluir una sección de conclusiones*
+> 💡 *La finalidad de este portafolio es la de poder concretar todos los temas tratados dentro de la unidad 1 de la asignatura de matemáticas discretas.*
