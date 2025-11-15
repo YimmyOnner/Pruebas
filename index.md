@@ -31,11 +31,5 @@
 
 ---
 
-# <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="30"/> Uso de la IA
-- Uso de ChatGPT para la generación de explicaciones y ejemplos de código.  
-- Revisión de sintaxis y optimización de algoritmo [2]s con herramientas de IA.  
-- Elaboración de reflexiones y resúmenes mediante apoyo asistido.
-
----
 
 > 💡 *La finalidad de este portafolio es la de poder concretar todos los temas tratados dentro de la unidad 1 de la asignatura de matemáticas discretas.*
