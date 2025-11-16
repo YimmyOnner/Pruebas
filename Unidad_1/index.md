@@ -44,7 +44,6 @@ En esta seccion de actividades, pudimos realizar varias diapositivas, diseñadas
 
 ## Descripción:
 - En esta seccion de actividades, al igual que la anterior, solo se realizo una actividad, la misma que consistía en la elaboración de 2 ejercicios, (al igual que el examen), pero con la pequeña diferencia que el ejercicio era elaborado de manera individual, pero al momento de la entrega del trabajo, se lo podía presentar de manera grupal, de esta manera, todos como grupo, pudimos comprender como se realizaba correctamente estos ejercicios.
-- A continuación, se presenta un link de la carpeta que almacena este unico archivo de Aprendizaje Practico Experimental, teniendo total libertad de entrar al link y revisar este archivo sin ningún problema.
 
 <div align="center">
 
