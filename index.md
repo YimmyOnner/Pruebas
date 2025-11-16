@@ -21,8 +21,11 @@
 ---
 
 # 📘 Unidad 1
-
+### Contenidos:
+---
+- Dentro de la presente Unidad 1, tratamos diversos temas, relacionados con la logica matemática, las tablas de verdad, las premisas y proposiciones logicas, las leyes de la lógica, las reglas de la inferencias, entre otras. A continuación, se presenta un pequeño resumen de las actividades realizadas dentro de esta Unidad que tuvo una duración aproximada de 4 semanas, vamos a conocer las diferentes actividades realizadas.
 <div align="center">
+---
 
 [![📗 Visitar la Unidad 1](https://img.shields.io/badge/📗_Visitar_la_Unidad_1-32CD32?style=for-the-badge)](./Unidad_1/index.md)
 
