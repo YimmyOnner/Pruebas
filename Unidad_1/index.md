@@ -19,8 +19,6 @@ En esta seccion de actividades, pudimos realizar varias diapositivas, diseñadas
 
 - En la segunda diapositiva: La segunda diapositiva, contiene los temas de: leyes de la logica y reglas de la inferencia, al principío no comprendía como estos temas se podrían relacionar, con los antes vistos, pero al momento de interactuar con estos contenidos, todo lo anterior tuvo relación, y de esta manera siendo capaces de resolver ejercicios, con dificultad entre media y alta con ejercicios basados en estos temas.
 
-- A continuación, se presenta un link de la carpeta que almacena cada uno de estos arhivos, teniendo total libertad de entrar al link y revisar cada carpeta cuando lo deseé.
-  
 <div align="center">
 
 [![📗 ACD](https://img.shields.io/badge/📗_ACD-1E90FF?style=for-the-badge)](./ACD/index.md)
