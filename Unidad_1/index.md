@@ -31,7 +31,6 @@ En esta seccion de actividades, pudimos realizar varias diapositivas, diseñadas
 
 ## Descripción:
 - En esta seccion de actividades, solo realizamos una actividad, la cual constaba de treinta ejercicios, los mismos que contenian preguntas tales como, armar una proposicion compuesta de manera simbolica mediante, conectores logicos, o algunas como, realize las tablas de las siguientes proposiciones, al principio se nos complicaba la elaboración de una tabla de verdad, pero actualmente gracias a la ayuda que nos proporcionó esta practica, tenemos una mejor comprension de la logica y de las tablas de verdad, teniando problemas casi nulos al momento de realizar una.
-- A continuación, se presenta un link de la carpeta que almacena este unico archivo de Aprendizaje Practico Experimental, teniendo total libertad de entrar al link y revisar este archivo sin ningún problema.
   
 <div align="center">
 
