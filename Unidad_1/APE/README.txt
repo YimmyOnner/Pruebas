@@ -1,1 +1,0 @@
-Carpeta APE - archivo mínimo generado automáticamente.
